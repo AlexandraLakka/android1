@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirstApp2</string>
+
+    <string name="user_id">ID</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="button1">Save</string>
+    <string name="button2">Go to 2nd app</string>
+
+    <string name="id">USER_ID</string>
+    <string name="button">GO TO 3RD ACTIVITY</string>
+    <string name="title_activity_third">ThirdActivity</string>
+
+    <string name="query">Query is:</string>
+    <string name="rows">Rows:</string>
+</resources>
